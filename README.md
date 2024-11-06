@@ -7,4 +7,9 @@
 <pre><code>https://developer.webex.com/my-apps -> 'Create a New App' -> 'Create a Bot'</code></pre>
 ![image](https://github.com/user-attachments/assets/c8318ff5-f90d-435a-b0ba-f6e6a6348613)
 
+### 1.2 Webhook message
+![image](https://github.com/user-attachments/assets/77b5da55-f74b-4fa2-aa1c-3b3d8323123e)
+
+
 ## 2. 로컬 in Window
+![image](https://github.com/user-attachments/assets/aac4ec28-e14b-4e83-8168-5850e3cb2931)
