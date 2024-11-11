@@ -16,3 +16,7 @@
 ![image](https://github.com/user-attachments/assets/aac4ec28-e14b-4e83-8168-5850e3cb2931)
 
 ## 3. 카드 형태 웹훅 메세징
+
+![image](https://github.com/user-attachments/assets/9c8632b9-b2ac-4c59-8857-0174e6ae1c63)
+
+<pre><code>webhook_card.py 참고</code></pre>
